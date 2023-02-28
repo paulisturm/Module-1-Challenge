@@ -1,1 +1,2 @@
 # Module-1-Challenge
+in this challenge i will clone my starter code into a new repository. I will then refractor the code to meet the acceptance criteria. I will be finding and removing semantic HTML elements. In doing so i will not change the function of the site. once completed I will be uploading the project to github with a unique name
